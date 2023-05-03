@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.home {
+    background: url(./UI/assets/pokeball.jpg)no-repeat center center/cover;
+    min-height: 100vh;
+}
+
+.home h1 {
+    padding-top: 12rem;
+    color: white;
+    text-shadow: 5px gray solid;
+}

@@ -1,0 +1,14 @@
+.pokelist input {
+    margin: 3rem 3rem;
+    width: 200px;
+    padding: 0.6rem;
+    border-radius: 8px;
+
+}
+
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+}
