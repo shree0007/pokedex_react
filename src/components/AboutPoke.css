@@ -1,0 +1,50 @@
+.aboutpoke {
+
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+    width: 700px;
+    margin: auto;
+    margin-top: 3rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 40px 0 rgba(0, 0, 0, 0.19);
+    font-family: sans-serif;
+
+
+}
+
+.aboutpoke h2 {
+    margin-bottom: 3rem;
+    text-transform: capitalize;
+}
+
+#singlepoke {
+    width: 300px;
+    margin: auto;
+
+
+}
+
+.description {
+    margin-top: 2rem;
+}
+
+.description h3 {
+    margin: 1rem 1rem;
+}
+
+.aboutpoke button {
+    width: 80px;
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0.2rem;
+    cursor: pointer;
+    font-family: inherit;
+
+
+}
